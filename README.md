@@ -3,7 +3,7 @@ WA password extractor
 
 Extract WhatsApp password and identity from your device **[iPhone only]**
 
-Usage: extractPW.exe <username> <password> <ip>
+**Usage:** extractPW.exe username password ip
 
 Default username in iPhone: root
 Default password in iPhone: alpine
