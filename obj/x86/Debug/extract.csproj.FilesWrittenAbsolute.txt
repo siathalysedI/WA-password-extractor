@@ -1,0 +1,7 @@
+/Users/mgp25/Projects/extract/extract/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/mgp25/Projects/extract/extract/bin/Debug/ChilkatDotNet4.dll
+/Users/mgp25/Projects/extract/extract/bin/Debug/extract.exe.mdb
+/Users/mgp25/Projects/extract/extract/bin/Debug/extract.exe
+/Users/mgp25/Projects/extract/extract/obj/x86/Debug/extract.exe
+/Users/mgp25/Projects/extract/extract/obj/x86/Debug/extract.exe.mdb
+/Users/mgp25/Projects/extract/extract/bin/Debug/Renci.SshNet.dll
